@@ -13,7 +13,6 @@
 
 - 🎓 Computer Science student at **Bina Nusantara University** (2023 – present), based in Bandung, West Java
 - 💼 **IT Developer Intern at PT Malifax** — working where DevOps, cybersecurity and AI meet
-- 🧑‍🏫 Learning & Training Staff at **Bina Nusantara Computer Club (BNCC)** — vice project manager of LnT Camp 2025 and PIC for the Front-end Development class
 - 🔥 Currently sharpening my deep learning skills with **PyTorch** and deploying models on **GCP** and **AWS**
 
 ### 🚀 What I've been working on
