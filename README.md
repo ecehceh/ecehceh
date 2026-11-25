@@ -13,7 +13,7 @@
 
 - 🎓 Computer Science student at **Bina Nusantara University** (2023 – present), based in Bandung, West Java
 - 💼 **IT Developer Intern at PT Malifax** — working where DevOps, cybersecurity and AI meet
-- 🔥 Currently sharpening my deep learning skills with **PyTorch** and deploying models on **GCP** and **AWS**
+- 🔥 Currently sharpening my deep learning skills with **PyTorch** and deploying models on **GCP**
 
 ### 🚀 What I've been working on
 
